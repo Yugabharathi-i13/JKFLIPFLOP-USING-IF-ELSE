@@ -68,6 +68,7 @@ Program for flipflops and verify its truth table in quartus using Verilog progra
 
 ![Screenshot 2024-12-25 135314](https://github.com/user-attachments/assets/156e7390-933c-41c1-8488-5320f895c7dd)
 
-**RESULTS**
+**RESULT:**
+
  Thus JK flipflop's truth table is verified in quartus using Verilog programming.
 
